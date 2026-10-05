@@ -1,0 +1,15 @@
+[submodule "agent-x"]
+	path = agent-x
+	url = https://github.com/professor-tucker/agent-x.git
+[submodule "chrm-note"]
+	path = chrm-note
+	url = https://github.com/professor-tucker/chrm-note.git
+[submodule "huggingphaze-site"]
+	path = huggingphaze-site
+	url = https://github.com/professor-tucker/huggingphaze-site.git
+[submodule "hug-phz-bday"]
+	path = hug-phz-bday
+	url = https://github.com/professor-tucker/hug-phz-bday.git
+[submodule "Phaze-hugging"]
+	path = Phaze-hugging
+	url = https://github.com/professor-tucker/Phaze-hugging.git
